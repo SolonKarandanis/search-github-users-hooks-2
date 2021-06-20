@@ -1,0 +1,6 @@
+{
+    "env":{
+        "DB_HOST_MIMER": "disdb.mimerhellas.local",
+        "DB_HOST_HOME": "localhost"
+    }
+}
